@@ -1,11 +1,17 @@
 {
-  "name": "jsautohw2",
+  "name": "dasha",
   "version": "1.0.0",
-  "description": "",
+  "description": "DBeaver",
   "main": "index.js",
+  "dependencies": {
+    "corepack": "^0.18.0",
+    "npm": "^9.6.7"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC"
 }
